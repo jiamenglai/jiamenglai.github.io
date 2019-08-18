@@ -28,7 +28,7 @@ p {
     line-height: 1.8em;
     font-family: 'Helvetica';
     color: #333;
-    font-weight: none;
+    font-weight: 200;
 }
 footer {
     border-top: 1px solid #d5d5d5;
