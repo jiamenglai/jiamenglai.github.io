@@ -28,6 +28,7 @@ p {
     line-height: 1.8em;
     font-family: 'Arial';
     color: #333;
+    font-weight: none;
 }
 footer {
     border-top: 1px solid #d5d5d5;
