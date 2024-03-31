@@ -19,7 +19,7 @@
 	<script>
     function toggleInfo(id) {
         var moreInfo = document.getElementById(id);
-        if (moreInfo.style.display === "none") {
+        if (moreInfo.style.display === "" || moreInfo.style.display === "none") {
             moreInfo.style.display = "block";
         } else {
             moreInfo.style.display = "none";
