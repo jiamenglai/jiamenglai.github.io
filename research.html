@@ -11,6 +11,21 @@
     	<link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
 		<title>Jiameng Lai - Research</title>
 	</head>
+	<style>
+    		.more-info {
+        	display: none; /* Hide additional information by default */
+   		}
+	</style>
+	<script>
+    function toggleInfo(id) {
+        var moreInfo = document.getElementById(id);
+        if (moreInfo.style.display === "none") {
+            moreInfo.style.display = "block";
+        } else {
+            moreInfo.style.display = "none";
+        }
+    }
+	</script>
 	<body>
 		<br>
 		<br>
@@ -43,9 +58,8 @@
 			<h2 style="text-align:left"><u>Theme 1</u>: understanding and predicting the long-term response/feedbacks of carbon-water cycle to climate change/variability</h2>
 				<h2 style="text-align:left">※Ongoing projects※</h2>
 			<p style="text-align:left; font-size:130%; font-weight:700; color: #00A">Effect of explicit consideration of mesophyll diffusion to carbonyl sulfide (OCS) simulation and implication to GPP estimate</p>
-			<div class="item">
-    		<a href="#" onclick="toggleInfo(); return false;">Show More</a>
-    		<div class="more-info">
+    		<a style="font-size:90%" href="#" onclick="toggleInfo('info1'); return false;">[Show More]</a></p>
+    			<div id="info1" class="more-info">
        					 <p style="text-align:left;font-size:90%">
 						OCS is an atmospheric trace gas which can serve as a photosynthetic tracer, as it shares a similar pathway with CO2 while diffusing from the air to plant cells. 
 						Mesophyll acts as one major barrier to both CO2 and OCS diffusion. However, current terrestrial biosphere models do not take explicit consideration of mesophyll diffusion. 
@@ -53,18 +67,7 @@
 						and the simulated mesophyll-explicit OCS can provide new insight on estimates of global GPP budget. <br>
 						A paper related to this project (Jiameng is the first author) has been submitted to <u><i>Nature</i></u> and is under major revision.<br>
 					</p>
-    		</div>
-			</div>		
-<script>
-    function toggleInfo() {
-        var moreInfo = document.querySelector('.more-info');
-        if (moreInfo.style.display === "none") {
-            moreInfo.style.display = "block";
-        } else {
-            moreInfo.style.display = "none";
-        }
-    }
-</script>			
+			</div>					
 			<p style="text-align:left; font-size:130%; font-weight:700; color: #00A">Contribution of mesophyll diffusion to historical increase of C13 discriminations</p>
 					<p style="text-align:left;font-size:90%">
 						Much information of photosynthesis and carbon cycling was embedded in the stable carbon isotope, as plants discriminate against heavier carbon isotope. 
