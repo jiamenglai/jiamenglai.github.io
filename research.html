@@ -43,7 +43,25 @@
 			<h2 style="text-align:left"><u>Theme 1</u>: understanding and predicting the long-term response/feedbacks of carbon-water cycle to climate change/variability</h2>
 				<h2 style="text-align:left">※Ongoing projects※</h2>
 			<p style="text-align:left; font-size:130%; font-weight:700; color: #00A">Effect of explicit consideration of mesophyll diffusion to carbonyl sulfide (OCS) simulation and implication to GPP estimate</p>
-					<p style="text-align:left;font-size:90%">
+			<div class="item">
+    <h2>Item Title</h2>
+    <p>Description of the item.</p>
+    <button onclick="toggleInfo()">Show More</button>
+    <div class="more-info">
+        <p>Additional information about the item.</p>
+    </div>
+</div>		
+<script>
+    function toggleInfo() {
+        var moreInfo = document.querySelector('.more-info');
+        if (moreInfo.style.display === "none") {
+            moreInfo.style.display = "block";
+        } else {
+            moreInfo.style.display = "none";
+        }
+    }
+</script>			
+			<p style="text-align:left;font-size:90%">
 						OCS is an atmospheric trace gas which can serve as a photosynthetic tracer, as it shares a similar pathway with CO2 while diffusing from the air to plant cells. 
 						Mesophyll acts as one major barrier to both CO2 and OCS diffusion. However, current terrestrial biosphere models do not take explicit consideration of mesophyll diffusion. 
 						This project shows that an explicit implementation of mesophyll diffusion in models can lead to a better agreement between simulation and site measurement of OCS fluxes, 
