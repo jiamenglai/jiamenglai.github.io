@@ -1,1 +1,119 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="./main.css">
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+       	<link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+    	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    	<link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+		<title>Jiameng Lai - Research</title>
+	</head>
+	<style>
+    		.more-info {
+        	display: none; /* Hide additional information by default */
+   		}
+	</style>
+	<style>
+    /* Define style for h3 */
+    h2 {
+        font-size: 20px; /* Adjust the font size as needed */
+        margin-top: 20px; /* Top margin */
+        margin-bottom: 10px; /* Bottom margin */
+    }
+</style>
+	<script>
+    function toggleInfo(id) {
+        var moreInfo = document.getElementById(id);
+        if (moreInfo.style.display === "" || moreInfo.style.display === "none") {
+            moreInfo.style.display = "block";
+        } else {
+            moreInfo.style.display = "none";
+        }
+    }
+	</script>
+	<body>
+		<h3 style = "text-align:center">
+			<p style = "font-size:95%">
+				<b>
+					<a href = "./index.html"><font color="grey">Home</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
+					<a href = "./education.html"><font color="grey">Education</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
+					<a href = "./research.html"><font color="grey">Research</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
+					<a href = "./publication.html"><font color="grey">Publication</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp
+					<a href = "./awards.html"><font color="grey">Awards</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp
+					<a href = "./Files/CV_Jiameng_Lai_202407.pdf"><font color="grey">CV</font></a>
+				</b>
+			</p>
+		<h3>
 
+			<h2 style="text-align:left"><u>Theme 1</u>: Understanding carbon-water interactions through synergies of innovative tracers</h2>
+			<p style="text-align:left; font-size:100%; font-weight:500; color: #00A"><i>Terrestrial photosynthesis inferred from plant carbonyl sulfide uptake</i>  
+    		<a style="font-size:80%; color: #000" href="#" onclick="toggleInfo('info1'); return false;">[show more]</a></p>
+    			<div id="info1" class="more-info">
+       					 <p style="text-align:left;font-size:90%">
+						Gross primary production (GPP) is the largest carbon sink on land. Its global magnitude has historically been estimated at ~120 Pg C/yr, 
+						 which is 30-50 Pg C/yr lower than estimates from oxygen-18 isotope (O18) and soil respiration. This discrepancy causes significant uncertainties 
+						 in predicting carbon-climate feedbacks. Using OCS as an innovative tracer, Jiameng inferred a global GPP of 157 (±8.5) Pg C/yr, 
+						 consistent with independent estimates from O-18 and soil respiration but significantly higher than current satellite data-driven estimates. 
+						 The resolved space-time patterns of GPP revealed a more productive tropic than previously recognized. <br>
+						A paper related to this project (Jiameng is the first author) was published in <u><i>Nature</i></u> <a href = "https://www.nature.com/articles/s41586-024-08050-3">[link]</a>.<br>
+					</p>
+			<div style="text-align:center">
+                       <img src = "./Files/Nature_GPP.jpg" alt = "Nature_GPP.jpg"  width = "800" halign = 'middle'>
+			</div>
+                       <p style="text-align:center;font-size:90%">
+                      a, The global annual mean GPP estimates synthesized from literature. The colours of the bars differentiate the broad categories of approaches. 
+			       IPCC AR6, Intergovernmental Panel on Climate Change Sixth Assessment Report; DGVMs, dynamic global vegetation models. 
+			       b–e, Zonal variations of GPP from this study and a subset of widely used satellite optical remote sensing-driven products from a.
+			</p>	
+			</div>
+				<p style="text-align:left; font-size:100%; font-weight:500; color: #00A"><i>Contribution of mesophyll diffusion to historical increase of C13 discriminations</i>  
+			<a style="font-size:80%; color: #000" href="#" onclick="toggleInfo('info2'); return false;">[show more]</a></p>
+    			<div id="info2" class="more-info">
+					<p style="text-align:left;font-size:90%">
+						Much information of photosynthesis and carbon cycling was embedded in the stable carbon isotope, as plants discriminate against heavier carbon isotope. 
+						The process of isotope discrimination has been implemented in most terrestrial biosphere models (TBMs). However, with NCAR CLM5, 
+						we found the standard equation cannot reproduce the historical long-term increase of isotope discrimination as deduced from atmospheric 13C/12C measurements. 
+						We attributed such a mismatch to the missed representation of photorespiration and, particularly, mesophyll diffusion. 
+						Updating the discrimination equation by leveraging a mechanistic mesophyll diffusion model, we reproduce the trend towards a larger discrimination under higher CO2 levels: 
+						globally the trend is 0.014‰ ppm−1, consistent with atmospheric measurements. <br>
+						A draft paper related to this project (Jiameng is the first author) has been finished.<br>
+					</p>
+			</div>	
+			<p style="text-align:left; font-size:100%; font-weight:500; color: #00A"><i>Historical trend of water use efficiency (WUE) and its drivers</i>  
+			<a style="font-size:80%; color: #000" href="#" onclick="toggleInfo('info3'); return false;">[show more]</a></p>
+    			<div id="info3" class="more-info">
+					<p style="text-align:left;font-size:90%">
+						Historical increase in WUE (ratio of gross photosynthesis to transpiration) was found responding to the rising CO2. 
+						However, the magnitude and evolution of such an increase over various biomes and scales are poorly understood, and the factors driving such an increase remain debatable. 
+						This ongoing project aims to improve our understanding of the historical WUE trends under changing climate and enviromental stresses. <br>
+					</p>
+			</div>
+			<p style="text-align:left; font-size:100%; font-weight:500; color: #00A"><i>Assimilating LAI and soil moisture using CLM5-DART for a better carbon monitoring in East Africa</i>
+			<a style="font-size:80%; color: #000" href="#" onclick="toggleInfo('info4'); return false;">[show more]</a></p>
+    			<div id="info4" class="more-info">
+					<p style="text-align:left;font-size:90%">
+						This ongoing project aims to use CLM5-DART to assimilate MODIS LAI and SMAP soil moisture in East Africa, and analyze how data assimilation affect the carbon cycle modeling.  <br>
+					</p>
+			</div> 
+
+			<footer class = "site-footer">
+				<p style = "text-align: center; font-size: 95%">
+					<b>
+						<a href = "./index.html">Home</a> | 					 
+						<a href = "./education.html">Education</a> | 
+						<a href = "./research.html">Research</a> | 
+						<a href = "./publication.html">Publication</a> | 
+						<a href = "./awards.html">Awards</a> | 
+						<a href = "./Files/CV_Jiameng_Lai_202407.pdf">CV</a> 
+					</b>
+				</p>
+				<p style = "text-align: center; font-size: 95%">
+					Copyright @ 2024 Jiameng Lai. All rights reserved.
+				</p>
+			</footer>
+		</section>
+	</body>
+</html>
