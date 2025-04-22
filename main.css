@@ -51,7 +51,7 @@ footer {
 }
 short-border {
     border-top: 1px solid #d5d5d5;
-    width: 70%; /* This makes the element (and its border) half the width of its container */
+    width: 500px; /* This makes the element (and its border) half the width of its container */
     margin: 0 auto; /* This centers the element horizontally */
 }
 ul.posts { 
