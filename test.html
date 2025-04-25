@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,12 +32,12 @@
         .year-group {
             position: relative;
             margin-bottom: 20px;
-            padding-top: 50px;  /* Increased from 30px */
-            margin-top: 20px;   /* Added margin-top */
+            padding-top: 50px;
+            margin-top: 20px;
         }
         .year-label {
             position: absolute;
-            top: 10px;          /* Increased from 0 */
+            top: 10px;
             left: 0;
             font-size: 1.8em;
             color: #eaeaea;
@@ -53,10 +54,6 @@
             margin-bottom: 8px;
             font-weight: normal;
         }
-        .citation-count {
-            color: #666;
-            font-size: 0.9em;
-        }
         .authors {
             margin-bottom: 3px;
             line-height: 1.4;
@@ -70,36 +67,6 @@
             margin-top: 3px;
             margin-bottom: 3px;
         }
-        .year {
-            margin-bottom: 10px;
-        }
-        .links a {
-            display: inline-block;
-            border: 1px solid #000;
-            padding: 3px 15px;
-            margin-right: 10px;
-            text-decoration: none;
-            color: #000;
-            margin-top: 5px;
-        }
-        .links a:hover {
-            background-color: #f5f5f5;
-        }
-        #publications-loader {
-            text-align: center;
-            padding: 20px;
-            display: none;
-        }
-        .error-message {
-            color: #cc0000;
-            padding: 20px;
-            text-align: center;
-            background-color: #ffeeee;
-            border-radius: 5px;
-            margin: 20px 0;
-            display: none;
-        }
-    </style>
         .links a {
             display: inline-block;
             border: 1px solid #000;
@@ -112,20 +79,11 @@
         .links a:hover {
             background-color: #f5f5f5;
         }
-        .more-authors {
+        .citation-count {
             color: #666;
-            text-decoration: none;
-        }
-        .more-authors:hover {
-            text-decoration: underline;
-        }
-        .publication-year {
-            position: absolute;
-            right: 0;
-            top: 0;
-            font-size: 1.8em;
-            color: #eaeaea;
-            font-weight: bold;
+            font-size: 0.9em;
+            display: inline-block;
+            margin-left: 5px;
         }
         #publications-loader {
             text-align: center;
@@ -167,10 +125,7 @@
             maxPublications: 0,
             
             // Sort options: 'year' (default), 'citations'
-            sortBy: 'year',
-            
-            // Maximum number of authors to show before "and X more authors" link
-            maxAuthorsToShow: 3
+            sortBy: 'year'
         };
         
         // Display loader
@@ -233,7 +188,7 @@
                     const authorsElement = document.createElement('div');
                     authorsElement.className = 'authors';
                     
-                    // Add ALL authors with links
+                    // Add ALL authors without links
                     pub.authors.forEach((author, index) => {
                         const authorSpan = document.createElement('span');
                         
@@ -250,14 +205,6 @@
                             authorsElement.appendChild(document.createTextNode(', '));
                         }
                     });
-                    
-                    // Create journal element if journal exists
-                    if (pub.journal) {
-                        const journalElement = document.createElement('div');
-                        journalElement.className = 'journal';
-                        journalElement.textContent = pub.journal;
-                        pubDiv.appendChild(journalElement);
-                    }
                     
                     // Create links element
                     const linksElement = document.createElement('div');
