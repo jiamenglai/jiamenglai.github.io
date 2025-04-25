@@ -52,6 +52,10 @@
             margin-bottom: 8px;
             font-weight: normal;
         }
+        .citation-count {
+            color: #666;
+            font-size: 0.9em;
+        }
         .authors {
             margin-bottom: 3px;
             line-height: 1.4;
@@ -265,6 +269,17 @@
                         htmlLink.textContent = 'HTML';
                         htmlLink.target = '_blank';
                         linksElement.appendChild(htmlLink);
+                    }
+                    
+                    // Add citation count after the links
+                    if (pub.citations && pub.citations > 0) {
+                        const citationSpan = document.createElement('span');
+                        citationSpan.className = 'citation-count';
+                        citationSpan.textContent = `${pub.citations} citations`;
+                        if (pub.links && pub.links.html) {
+                            linksElement.appendChild(document.createTextNode(' | '));
+                        }
+                        linksElement.appendChild(citationSpan);
                     }
                     
                     // Append all elements to the publication div
