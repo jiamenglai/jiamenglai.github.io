@@ -13,6 +13,46 @@
       {
         "name": "Gretchen Keppel-Aleks",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Isla R Simpson",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "David M Lawrence",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Gordon B Bonan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Xin Lin",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Charles D Koven",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Pierre Friedlingstein",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Keith Lindsay",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9ZlFYXVOiuMC"
       }
     ],
     "year": 2025,
@@ -20,9 +60,11 @@
       "html": "https://www.nature.com/articles/s41467-025-56730-z",
       "pdf": ""
     },
-    "more_authors_count": 10,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "Nature Communications",
+    "pub_type": "journal"
   },
   {
     "title": "Terrestrial photosynthesis inferred from plant carbonyl sulfide uptake",
@@ -38,6 +80,30 @@
       {
         "name": "Wu Sun",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "Danica Lombardozzi",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "J Elliott Campbell",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "Lianhong Gu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "Yiqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "Le Kuai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Wp0gIr-vW9MC"
       }
     ],
     "year": 2024,
@@ -45,9 +111,11 @@
       "html": "https://www.nature.com/articles/s41586-024-08050-3",
       "pdf": ""
     },
-    "more_authors_count": 6,
+    "more_authors_count": 0,
     "citations": 10,
-    "venue": ""
+    "venue": "",
+    "journal": "Nature",
+    "pub_type": "journal"
   },
   {
     "title": "Data from: Terrestrial Photosynthesis Inferred from Plant Carbonyl Sulfide Uptake",
@@ -63,6 +131,30 @@
       {
         "name": "Wu Sun",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Danica Lombardozzi",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "J Elliott Campbell",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Lianhong Gu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Yiqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Le Kuai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:mVmsd5A6BfQC"
       }
     ],
     "year": 2024,
@@ -70,9 +162,11 @@
       "html": "https://ecommons.cornell.edu/items/de8fa276-e3aa-4efd-b68f-f9b24077830b",
       "pdf": ""
     },
-    "more_authors_count": 6,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "Mapping local climate zones for cities: A large review",
@@ -88,6 +182,70 @@
       {
         "name": "Wenfeng Zhan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Matthias Demuzere",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Yuan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Yong Xu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Lei Ma",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Wanjun Xia",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Lu Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Fanhua Kong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Huilin Du",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Shiqi Miao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Yangyi Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
+      },
+      {
+        "name": "Jike Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4DMP91E08xMC"
       }
     ],
     "year": 2023,
@@ -95,9 +253,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425723001244",
       "pdf": ""
     },
-    "more_authors_count": 16,
+    "more_authors_count": 0,
     "citations": 95,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "From remotely sensed solar‐induced chlorophyll fluorescence to ecosystem structure, function, and service: Part I—Harnessing theory",
@@ -113,6 +273,58 @@
       {
         "name": "Jiaming Wen",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Christiaan van Der Tol",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Albert Porcar‐Castell",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Joanna Joiner",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Christine Y Chang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Troy Magney",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Lixin Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Uwe Rascher",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Pablo Zarco‐Tejada",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Christopher B Barrett",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Jimei Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:aqlVkmm33-oC"
       }
     ],
     "year": 2023,
@@ -120,9 +332,11 @@
       "html": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16634",
       "pdf": ""
     },
-    "more_authors_count": 13,
+    "more_authors_count": 0,
     "citations": 55,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "From remotely‐sensed solar‐induced chlorophyll fluorescence to ecosystem structure, function, and service: Part II—Harnessing data",
@@ -138,6 +352,58 @@
       {
         "name": "Lianhong Gu",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Joanna Joiner",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Christine Y Chang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Christiaan van Der Tol",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Albert Porcar‐Castell",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Troy Magney",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Lixin Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Uwe Rascher",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Pablo Zarco‐Tejada",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Christopher B Barrett",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Jimei Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qxL8FJ1GzNcC"
       }
     ],
     "year": 2023,
@@ -145,9 +411,11 @@
       "html": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16646",
       "pdf": ""
     },
-    "more_authors_count": 13,
+    "more_authors_count": 0,
     "citations": 47,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "Competition between biogeochemical drivers and land-cover changes determines urban greening or browning",
@@ -163,6 +431,58 @@
       {
         "name": "Weimin Ju",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Josep Peñuelas",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Zaichun Zhu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Shushi Peng",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Xiaolin Zhu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Yuyu Zhou",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Gaofei Yin",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Yongshuo Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Manchun Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
+      },
+      {
+        "name": "Chao Yu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:M3ejUd6NZC8C"
       }
     ],
     "year": 2023,
@@ -170,9 +490,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425723000329",
       "pdf": ""
     },
-    "more_authors_count": 13,
+    "more_authors_count": 0,
     "citations": 36,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "From Remotely-Sensed SIF to Ecosystem Structure, Function, and Service: Harness Theory and Data",
@@ -188,6 +510,58 @@
       {
         "name": "Jiaming Wen",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Christiaan van der Tol",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Albert Porcar-Castell",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Joanna Joiner",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Christine Chang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Troy Magney",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Lixin Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Uwe Rascher",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Pablo Zarco-Tejada",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Christopher B Barrett",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Jimei Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:7PzlFSSx8tAC"
       }
     ],
     "year": 2023,
@@ -195,9 +569,11 @@
       "html": "https://scholar.google.com/scholar?cluster=17563168002410166896&hl=en&oi=scholarr",
       "pdf": ""
     },
-    "more_authors_count": 13,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU23",
+    "pub_type": "journal"
   },
   {
     "title": "Surface warming in global cities is substantially more rapid than in rural background areas",
@@ -213,6 +589,34 @@
       {
         "name": "Benjamin Bechtel",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "James Voogt",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Tirthankar Chakraborty",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Zhi-Hua Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Manchun Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Xuhui Lee",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:4TOpqqG69KYC"
       }
     ],
     "year": 2022,
@@ -220,9 +624,11 @@
       "html": "https://www.nature.com/articles/s43247-022-00539-x",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 118,
-    "venue": ""
+    "venue": "",
+    "journal": "Communications Earth & Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Urban Heat Islands Significantly Reduced by COVID‐19 Lockdown",
@@ -238,6 +644,42 @@
       {
         "name": "Wenfeng Zhan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "James Voogt",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Peng Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Zheng Guo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:8k81kl-MbHgC"
       }
     ],
     "year": 2022,
@@ -245,9 +687,11 @@
       "html": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021gl096842",
       "pdf": ""
     },
-    "more_authors_count": 9,
+    "more_authors_count": 0,
     "citations": 68,
-    "venue": ""
+    "venue": "",
+    "journal": "Geophysical Research Letters",
+    "pub_type": "journal"
   },
   {
     "title": "Seasonally disparate responses of surface thermal environment to 2D/3D urban morphology",
@@ -263,6 +707,30 @@
       {
         "name": "Peijun Du",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Junshi Xia",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ULOm3_A8WrAC"
       }
     ],
     "year": 2022,
@@ -270,9 +738,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S036013232200172X",
       "pdf": ""
     },
-    "more_authors_count": 6,
+    "more_authors_count": 0,
     "citations": 60,
-    "venue": ""
+    "venue": "",
+    "journal": "Building and Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Taxonomy of seasonal and diurnal clear-sky climatology of surface urban heat island dynamics across global cities",
@@ -288,6 +758,30 @@
       {
         "name": "Jiameng Lai",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Xuhui Lee",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:KlAtU1dfN6UC"
       }
     ],
     "year": 2022,
@@ -295,9 +789,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271622000612",
       "pdf": ""
     },
-    "more_authors_count": 6,
+    "more_authors_count": 0,
     "citations": 47,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Massive crop expansion threatens agriculture and water sustainability in northwestern China",
@@ -313,6 +809,34 @@
       {
         "name": "Jianli Chen",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Guo-Yue Niu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Peirong Lin",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Qi Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Lixin Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Jimei Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:kNdYIx-mwKoC"
       }
     ],
     "year": 2022,
@@ -320,9 +844,11 @@
       "html": "https://iopscience.iop.org/article/10.1088/1748-9326/ac46e8/meta",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 29,
-    "venue": ""
+    "venue": "",
+    "journal": "Environmental Research Letters",
+    "pub_type": "journal"
   },
   {
     "title": "Heat wave-induced augmentation of surface urban heat islands strongly regulated by rural background",
@@ -338,6 +864,38 @@
       {
         "name": "Jiameng Lai",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Huilin Du",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Chunli Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Pan Dong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YOwf2qJgpHMC"
       }
     ],
     "year": 2022,
@@ -345,9 +903,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S2210670722002001",
       "pdf": ""
     },
-    "more_authors_count": 8,
+    "more_authors_count": 0,
     "citations": 27,
-    "venue": ""
+    "venue": "",
+    "journal": "Sustainable Cities and Society",
+    "pub_type": "journal"
   },
   {
     "title": "Long‐Term and Fine‐Scale Surface Urban Heat Island Dynamics Revealed by Landsat Data Since the 1980s: A Comparison of Four Megacities in China",
@@ -363,6 +923,42 @@
       {
         "name": "Huilin Du",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Huyan Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Chunli Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Lu Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "Shiqi Miao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Zph67rFs4hoC"
       }
     ],
     "year": 2022,
@@ -370,9 +966,11 @@
       "html": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035598",
       "pdf": ""
     },
-    "more_authors_count": 9,
+    "more_authors_count": 0,
     "citations": 21,
-    "venue": ""
+    "venue": "",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "pub_type": "journal"
   },
   {
     "title": "Strong regulation of daily variations in nighttime surface urban heat islands by meteorological variables across global cities",
@@ -388,6 +986,14 @@
       {
         "name": "Wenfeng Zhan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:5nxA0vEk-isC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:5nxA0vEk-isC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:5nxA0vEk-isC"
       }
     ],
     "year": 2022,
@@ -395,9 +1001,11 @@
       "html": "https://iopscience.iop.org/article/10.1088/1748-9326/ac4630/meta",
       "pdf": ""
     },
-    "more_authors_count": 2,
+    "more_authors_count": 0,
     "citations": 17,
-    "venue": ""
+    "venue": "",
+    "journal": "Environmental Research Letters",
+    "pub_type": "journal"
   },
   {
     "title": "Urban‐Rural Gradient in Urban Heat Island Variations Responsive to Large‐Scale Human Activity Changes During Chinese New Year Holiday",
@@ -413,6 +1021,34 @@
       {
         "name": "Benjamin Bechtel",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Huyan Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Chunli Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Yangyi Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_kc_bZDykSQC"
       }
     ],
     "year": 2022,
@@ -420,9 +1056,11 @@
       "html": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL100689",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 16,
-    "venue": ""
+    "venue": "",
+    "journal": "Geophysical Research Letters",
+    "pub_type": "journal"
   },
   {
     "title": "Disentangling GxExM impact on historical global agricultural productivity using Earth System Model",
@@ -438,6 +1076,14 @@
       {
         "name": "Danica L Lombardozzi",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:L8Ckcad2t8MC"
+      },
+      {
+        "name": "Peter GM Hess",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:L8Ckcad2t8MC"
+      },
+      {
+        "name": "Ying SUN",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:L8Ckcad2t8MC"
       }
     ],
     "year": 2022,
@@ -445,9 +1091,11 @@
       "html": "https://ui.adsabs.harvard.edu/abs/2022AGUFMGC45A..50Y/abstract",
       "pdf": ""
     },
-    "more_authors_count": 2,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU Fall Meeting Abstracts",
+    "pub_type": "journal"
   },
   {
     "title": "Impact of mesophyll diffusion on carbonyl sulfide (OCS) fluxes in global terrestrial ecosystems",
@@ -463,6 +1111,10 @@
       {
         "name": "Danica L Lombardozzi",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:QIV2ME_5wuYC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:QIV2ME_5wuYC"
       }
     ],
     "year": 2022,
@@ -470,9 +1122,11 @@
       "html": "https://ui.adsabs.harvard.edu/abs/2022AGUFM.B52A..07L/abstract",
       "pdf": ""
     },
-    "more_authors_count": 1,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU Fall Meeting Abstracts",
+    "pub_type": "journal"
   },
   {
     "title": "Simultaneous investigation of surface and canopy urban heat islands over global cities",
@@ -488,6 +1142,50 @@
       {
         "name": "Zihan Liu",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Shiqi Miao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Chunli Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Huyan Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Lu Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Sida Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:hqOjcs7Dif8C"
       }
     ],
     "year": 2021,
@@ -495,9 +1193,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271621002355",
       "pdf": ""
     },
-    "more_authors_count": 11,
+    "more_authors_count": 0,
     "citations": 78,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Meteorological controls on daily variations of nighttime surface urban heat islands",
@@ -513,6 +1213,38 @@
       {
         "name": "James Voogt",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Ji Zhou",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Kaicun Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Chang Cao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Xuhui Lee",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:YsMSGLbcyi4C"
       }
     ],
     "year": 2021,
@@ -520,9 +1252,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S003442572030571X",
       "pdf": ""
     },
-    "more_authors_count": 8,
+    "more_authors_count": 0,
     "citations": 63,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Separate and combined impacts of building and tree on urban thermal environment from two-and three-dimensional perspectives",
@@ -538,6 +1272,42 @@
       {
         "name": "Shuangen Jin",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Wenquan Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Peijun Du",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Junshi Xia",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
+      },
+      {
+        "name": "Haiyong Ding",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:WF5omc3nYNoC"
       }
     ],
     "year": 2021,
@@ -545,9 +1315,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0360132321000615",
       "pdf": ""
     },
-    "more_authors_count": 9,
+    "more_authors_count": 0,
     "citations": 60,
-    "venue": ""
+    "venue": "",
+    "journal": "Building and Environment",
+    "pub_type": "journal"
   },
   {
     "title": "A simple yet robust framework to estimate accurate daily mean land surface temperature from thermal observations of tandem polar orbiters",
@@ -563,6 +1335,38 @@
       {
         "name": "Frank-M Göttsche",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Peng Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Hua Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Hua Wu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Se3iqnhoufwC"
       }
     ],
     "year": 2021,
@@ -570,9 +1374,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425721003321",
       "pdf": ""
     },
-    "more_authors_count": 8,
+    "more_authors_count": 0,
     "citations": 37,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Similarities and disparities in urban local heat islands responsive to regular-, stable-, and counter-urbanization: A case study of Guangzhou, China",
@@ -588,6 +1394,42 @@
       {
         "name": "Falu Hong",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Pan Dong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Chunli Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Yingchun Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Shiqi Miao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:_FxGoFyzp5QC"
       }
     ],
     "year": 2021,
@@ -595,9 +1437,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0360132321003395",
       "pdf": ""
     },
-    "more_authors_count": 9,
+    "more_authors_count": 0,
     "citations": 30,
-    "venue": ""
+    "venue": "",
+    "journal": "Building and Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Statistical estimation of next-day nighttime surface urban heat islands",
@@ -613,6 +1457,34 @@
       {
         "name": "Jinling Quan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Kaicun Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Ji Zhou",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Tirthankar Chakraborty",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "Xuhui Lee",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:ufrVoPGSRksC"
       }
     ],
     "year": 2021,
@@ -620,9 +1492,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271621001040",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 23,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Assessment of different kernel-driven models for daytime urban thermal radiation directionality simulation",
@@ -638,6 +1512,26 @@
       {
         "name": "Leiqiu Hu",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:LkGwnXOMwfcC"
       }
     ],
     "year": 2021,
@@ -645,9 +1539,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425721002820",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 20,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Reconciling Debates on the Controls on Surface Urban Heat Island Intensity: Effects of Scale and Sampling",
@@ -663,6 +1559,26 @@
       {
         "name": "Jinling Quan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "Weilin Liao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:0EnyYjriUFMC"
       }
     ],
     "year": 2021,
@@ -670,9 +1586,11 @@
       "html": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094485",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 18,
-    "venue": ""
+    "venue": "",
+    "journal": "Geophysical Research Letters",
+    "pub_type": "journal"
   },
   {
     "title": "Mapping local climate zones: A bibliometric meta-analysis and systematic review",
@@ -688,6 +1606,74 @@
       {
         "name": "Wenfeng Zhan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Matthias Demuzere",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Yuan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Yong Xu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Wanjun Xia",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Lei Ma",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Lu Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Fanhua Kong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Huilin Du",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Shiqi Miao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Yangyi Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Xianran Zhang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UebtZRa9Y70C"
       }
     ],
     "year": 2021,
@@ -695,9 +1681,11 @@
       "html": "https://osf.io/preprints/c2bez/",
       "pdf": ""
     },
-    "more_authors_count": 17,
+    "more_authors_count": 0,
     "citations": 9,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "Massive Crop Expansion Threatens Agriculture and Water Sustainability in Northwest China, as Revealed by GRACE/GRACE FO Data",
@@ -713,6 +1701,34 @@
       {
         "name": "Jianli Chen",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Guo-yue Niu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Peirong Lin",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Qi Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Lixin Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Jimei Han",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Zhenqi Luo",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Ying Sun",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:dhFuZR0502QC"
       }
     ],
     "year": 2021,
@@ -720,9 +1736,11 @@
       "html": "https://ui.adsabs.harvard.edu/abs/2021AGUFM.H21A..06L/abstract",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU Fall Meeting Abstracts",
+    "pub_type": "journal"
   },
   {
     "title": "Satellite-based mapping of the Universal Thermal Climate Index over the Yangtze River Delta urban agglomeration",
@@ -738,6 +1756,38 @@
       {
         "name": "Zihan Liu",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Long Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Peng Fu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Jike Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Sida Jiang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Y0pCki6q_DkC"
       }
     ],
     "year": 2020,
@@ -745,9 +1795,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0959652620338750",
       "pdf": ""
     },
-    "more_authors_count": 8,
+    "more_authors_count": 0,
     "citations": 42,
-    "venue": ""
+    "venue": "",
+    "journal": "Journal of Cleaner Production",
+    "pub_type": "journal"
   },
   {
     "title": "Satellite identification of atmospheric-surface-subsurface urban heat islands under clear sky",
@@ -763,6 +1815,30 @@
       {
         "name": "Zhi-Hua Wang",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "James Voogt",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "Chun Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "Ning Zhang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:Tyk-4Ss8FVUC"
       }
     ],
     "year": 2020,
@@ -770,9 +1846,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425720304090",
       "pdf": ""
     },
-    "more_authors_count": 6,
+    "more_authors_count": 0,
     "citations": 39,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Global comparison of diverse scaling factors and regression models for downscaling Landsat-8 thermal data",
@@ -788,6 +1866,34 @@
       {
         "name": "Wenfeng Zhan",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Jiufeng Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Hua Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Sagar K Tamang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
+      },
+      {
+        "name": "Limin Zhao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:W7OEmFMy1HYC"
       }
     ],
     "year": 2020,
@@ -795,9 +1901,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S092427162030232X",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 36,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Urban heat island studies based on local climate zones: A systematic overview",
@@ -813,6 +1921,38 @@
       {
         "name": "Jun YANG",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Zihan LIU",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Fan HUANG",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Jiameng LAI",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Jiufeng LI",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Falu HONG",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Yuan HUANG",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Jike CHEN",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
+      },
+      {
+        "name": "Xuhui LEE",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:MXK_kJrjxJIC"
       }
     ],
     "year": 2020,
@@ -820,9 +1960,11 @@
       "html": "https://scholar.google.com/scholar?cluster=16895788655220532598&hl=en&oi=scholarr",
       "pdf": ""
     },
-    "more_authors_count": 8,
+    "more_authors_count": 0,
     "citations": 27,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "Reconciling Debates in Controls of Urban Heat Islands: the Effect of Scaling and Sampling",
@@ -843,7 +1985,9 @@
     },
     "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU Fall Meeting Abstracts",
+    "pub_type": "journal"
   },
   {
     "title": "Balancing prediction accuracy and generalization ability: A hybrid framework for modelling the annual dynamics of satellite-derived land surface temperatures",
@@ -859,6 +2003,26 @@
       {
         "name": "Jiameng Lai",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Zhaoxu Zou",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:UeHWp8X0CEIC"
       }
     ],
     "year": 2019,
@@ -866,9 +2030,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271619300826",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 62,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Forecasting of the Nighttime Surface Urban Heat Islands under Clear-sky",
@@ -893,7 +2059,9 @@
     },
     "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "",
+    "pub_type": "unknown"
   },
   {
     "title": "Identification of typical diurnal patterns for clear-sky climatology of surface urban heat islands",
@@ -909,6 +2077,34 @@
       {
         "name": "Fan Huang",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "James Voogt",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Michael Allen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Shushi Peng",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Yongxue Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
+      },
+      {
+        "name": "Peijun Du",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:qjMakFHDy7sC"
       }
     ],
     "year": 2018,
@@ -916,9 +2112,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0034425718303973",
       "pdf": ""
     },
-    "more_authors_count": 7,
+    "more_authors_count": 0,
     "citations": 125,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing of Environment",
+    "pub_type": "journal"
   },
   {
     "title": "Comprehensive assessment of four-parameter diurnal land surface temperature cycle models under clear-sky",
@@ -934,6 +2132,26 @@
       {
         "name": "Frank-M Göttsche",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Zihan Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Ji Zhou",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Manchun Li",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:2osOgNQ5qMEC"
       }
     ],
     "year": 2018,
@@ -941,9 +2159,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271618301710",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 63,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Does quality control matter? Surface urban heat island intensity variations estimated by satellite-derived land surface temperature products",
@@ -959,6 +2179,22 @@
       {
         "name": "Fan Huang",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:u-x6o8ySG0sC"
+      },
+      {
+        "name": "Jinling Quan",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:u-x6o8ySG0sC"
+      },
+      {
+        "name": "Leiqiu Hu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:u-x6o8ySG0sC"
+      },
+      {
+        "name": "Lun Gao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:u-x6o8ySG0sC"
+      },
+      {
+        "name": "Weimin Ju",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:u-x6o8ySG0sC"
       }
     ],
     "year": 2018,
@@ -966,9 +2202,11 @@
       "html": "https://www.sciencedirect.com/science/article/pii/S0924271618300777",
       "pdf": ""
     },
-    "more_authors_count": 4,
+    "more_authors_count": 0,
     "citations": 57,
-    "venue": ""
+    "venue": "",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Enhanced Modeling of Annual Temperature Cycles with Temporally Discrete Remotely Sensed Thermal Observations",
@@ -984,6 +2222,26 @@
       {
         "name": "Zihan Liu",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Benjamin Bechtel",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Lun Gao",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Falu Hong",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Fan Huang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:9yKSN-GCB0IC"
       }
     ],
     "year": 2018,
@@ -991,9 +2249,11 @@
       "html": "https://www.mdpi.com/2072-4292/10/4/650",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 36,
-    "venue": ""
+    "venue": "",
+    "journal": "Remote Sensing",
+    "pub_type": "journal"
   },
   {
     "title": "Systematic investigation of synoptic control of nighttime surface urban heat islands over Chinese cities",
@@ -1014,7 +2274,9 @@
     },
     "more_authors_count": 0,
     "citations": 0,
-    "venue": ""
+    "venue": "",
+    "journal": "AGU Fall Meeting Abstracts",
+    "pub_type": "journal"
   },
   {
     "title": "Positive or Negative? Urbanization‐Induced Variations in Diurnal Skin‐Surface Temperature Range Detected Using Satellite Data",
@@ -1030,6 +2292,26 @@
       {
         "name": "Zhihua Wang",
         "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Kaicun Wang",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Jing M Chen",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Yongxue Liu",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Jiameng Lai",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Weimin Ju",
+        "url": "https://scholar.google.com/citations?user=F5Z74toAAAAJ:d1gkVwhDpl0C"
       }
     ],
     "year": 2017,
@@ -1037,8 +2319,10 @@
       "html": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JD027021",
       "pdf": ""
     },
-    "more_authors_count": 5,
+    "more_authors_count": 0,
     "citations": 16,
-    "venue": ""
+    "venue": "",
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "pub_type": "journal"
   }
 ]
