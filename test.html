@@ -56,13 +56,6 @@
             margin-bottom: 3px;
             line-height: 1.4;
         }
-        .author-link {
-            color: #990000;
-            text-decoration: none;
-        }
-        .author-link:hover {
-            text-decoration: underline;
-        }
         .author-self {
             font-weight: bold;
             text-decoration: underline;
@@ -86,13 +79,6 @@
         }
         .links a:hover {
             background-color: #f5f5f5;
-        }
-        .more-authors {
-            color: #666;
-            text-decoration: none;
-        }
-        .more-authors:hover {
-            text-decoration: underline;
         }
         #publications-loader {
             text-align: center;
@@ -244,17 +230,15 @@
                     
                     // Add ALL authors with links
                     pub.authors.forEach((author, index) => {
-                        const authorLink = document.createElement('a');
-                        authorLink.href = author.url || '#';
-                        authorLink.className = 'author-link';
+                        const authorSpan = document.createElement('span');
                         
                         // Highlight your name (Jiameng Lai)
                         if (author.name.includes('Jiameng Lai')) {
-                            authorLink.classList.add('author-self');
+                            authorSpan.classList.add('author-self');
                         }
                         
-                        authorLink.textContent = author.name;
-                        authorsElement.appendChild(authorLink);
+                        authorSpan.textContent = author.name;
+                        authorsElement.appendChild(authorSpan);
                         
                         // Add separator between authors
                         if (index < pub.authors.length - 1) {
@@ -267,8 +251,7 @@
                         const journalElement = document.createElement('div');
                         journalElement.className = 'journal';
                         journalElement.textContent = pub.journal;
-                        authorsElement.appendChild(document.createElement('br'));
-                        authorsElement.appendChild(journalElement);
+                        pubDiv.appendChild(journalElement);
                     }
                     
                     // Create links element
@@ -287,6 +270,12 @@
                     // Append all elements to the publication div
                     pubDiv.appendChild(titleElement);
                     pubDiv.appendChild(authorsElement);
+                    if (pub.journal) {
+                        const journalElement = document.createElement('div');
+                        journalElement.className = 'journal';
+                        journalElement.textContent = pub.journal;
+                        pubDiv.appendChild(journalElement);
+                    }
                     pubDiv.appendChild(linksElement);
                     
                     // Add the complete publication to the year group
