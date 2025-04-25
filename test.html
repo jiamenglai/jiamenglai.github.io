@@ -215,16 +215,7 @@
                     htmlLink.target = '_blank';
                     linksElement.appendChild(htmlLink);
                 }
-                
-                // Add PDF link
-                if (pub.links && pub.links.pdf) {
-                    const pdfLink = document.createElement('a');
-                    pdfLink.href = pub.links.pdf;
-                    pdfLink.textContent = 'PDF';
-                    pdfLink.target = '_blank';
-                    linksElement.appendChild(pdfLink);
-                }
-                
+                                
                 // Add year in large format (positioned absolutely in CSS)
                 const yearLarge = document.createElement('div');
                 yearLarge.className = 'publication-year';
