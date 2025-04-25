@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Publications</title>
+    <title>Selected Publications</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -47,6 +47,11 @@
         }
         .author-link:hover {
             text-decoration: underline;
+        }
+        .journal {
+            font-style: italic;
+            margin-top: 5px;
+            margin-bottom: 5px;
         }
         .year {
             margin-bottom: 15px;
@@ -95,7 +100,7 @@
     </style>
 </head>
 <body>
-    <h1>Publications</h1>
+    <h1>Selected publications</h1>
     
     <div id="error-message" class="error-message"></div>
     <div id="publications-loader">Loading publications...</div>
@@ -184,6 +189,15 @@
                     }
                 }
                 
+                // Create journal element if journal exists
+                if (pub.journal) {
+                    const journalElement = document.createElement('div');
+                    journalElement.className = 'journal';
+                    journalElement.textContent = pub.journal;
+                    authorsElement.appendChild(document.createElement('br'));
+                    authorsElement.appendChild(journalElement);
+                }
+                
                 // Create year element
                 const yearElement = document.createElement('div');
                 yearElement.className = 'year';
@@ -200,6 +214,15 @@
                     htmlLink.textContent = 'HTML';
                     htmlLink.target = '_blank';
                     linksElement.appendChild(htmlLink);
+                }
+                
+                // Add PDF link
+                if (pub.links && pub.links.pdf) {
+                    const pdfLink = document.createElement('a');
+                    pdfLink.href = pub.links.pdf;
+                    pdfLink.textContent = 'PDF';
+                    pdfLink.target = '_blank';
+                    linksElement.appendChild(pdfLink);
                 }
                 
                 // Add year in large format (positioned absolutely in CSS)
