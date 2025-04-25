@@ -10,11 +10,11 @@
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
-            line-height: 1.6;
+            line-height: 1.4;
         }
         h1 {
             font-size: 2.5em;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             font-weight: normal;
             position: relative;
             padding-bottom: 15px;
@@ -28,18 +28,33 @@
             height: 1px;
             background-color: #eaeaea;
         }
+        .year-group {
+            position: relative;
+            margin-bottom: 20px;
+            padding-top: 30px;
+        }
+        .year-label {
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: 1.8em;
+            color: #eaeaea;
+            font-weight: bold;
+            z-index: -1;
+        }
         .publication {
-            margin-bottom: 60px;
-            padding-bottom: 20px;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
             position: relative;
         }
         .publication-title {
             font-size: 1.2em;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             font-weight: normal;
         }
         .authors {
-            margin-bottom: 5px;
+            margin-bottom: 3px;
+            line-height: 1.4;
         }
         .author-link {
             color: #990000;
@@ -48,14 +63,52 @@
         .author-link:hover {
             text-decoration: underline;
         }
+        .author-self {
+            font-weight: bold;
+            text-decoration: underline;
+        }
         .journal {
             font-style: italic;
-            margin-top: 5px;
-            margin-bottom: 5px;
+            margin-top: 3px;
+            margin-bottom: 3px;
         }
         .year {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
+        .links a {
+            display: inline-block;
+            border: 1px solid #000;
+            padding: 3px 15px;
+            margin-right: 10px;
+            text-decoration: none;
+            color: #000;
+            margin-top: 5px;
+        }
+        .links a:hover {
+            background-color: #f5f5f5;
+        }
+        .more-authors {
+            color: #666;
+            text-decoration: none;
+        }
+        .more-authors:hover {
+            text-decoration: underline;
+        }
+        #publications-loader {
+            text-align: center;
+            padding: 20px;
+            display: none;
+        }
+        .error-message {
+            color: #cc0000;
+            padding: 20px;
+            text-align: center;
+            background-color: #ffeeee;
+            border-radius: 5px;
+            margin: 20px 0;
+            display: none;
+        }
+    </style>
         .links a {
             display: inline-block;
             border: 1px solid #000;
@@ -151,85 +204,97 @@
                 return;
             }
             
-            // Create and append publications
+            // Group publications by year
+            const publicationsByYear = {};
             publications.forEach(pub => {
-                const pubDiv = document.createElement('div');
-                pubDiv.className = 'publication';
+                if (!publicationsByYear[pub.year]) {
+                    publicationsByYear[pub.year] = [];
+                }
+                publicationsByYear[pub.year].push(pub);
+            });
+            
+            // Sort years in descending order (newest first)
+            const sortedYears = Object.keys(publicationsByYear).sort((a, b) => b - a);
+            
+            // Create and append publications by year groups
+            sortedYears.forEach(year => {
+                // Create year group container
+                const yearGroup = document.createElement('div');
+                yearGroup.className = 'year-group';
                 
-                // Create title element
-                const titleElement = document.createElement('div');
-                titleElement.className = 'publication-title';
-                titleElement.textContent = pub.title;
+                // Add year label
+                const yearLabel = document.createElement('div');
+                yearLabel.className = 'year-label';
+                yearLabel.textContent = year;
+                yearGroup.appendChild(yearLabel);
                 
-                // Create authors element
-                const authorsElement = document.createElement('div');
-                authorsElement.className = 'authors';
-                
-                // Add authors with links (limited by maxAuthorsToShow)
-                const shownAuthors = Math.min(CONFIG.maxAuthorsToShow, pub.authors.length);
-                
-                for (let i = 0; i < shownAuthors; i++) {
-                    const author = pub.authors[i];
-                    const authorLink = document.createElement('a');
-                    authorLink.href = author.url || '#';
-                    authorLink.className = 'author-link';
-                    authorLink.textContent = author.name;
-                    authorsElement.appendChild(authorLink);
+                // Add publications for this year
+                publicationsByYear[year].forEach(pub => {
+                    const pubDiv = document.createElement('div');
+                    pubDiv.className = 'publication';
                     
-                    // Add separator or "and" for authors
-                    if (i < shownAuthors - 1) {
-                        authorsElement.appendChild(document.createTextNode(', '));
-                    } else if (pub.more_authors_count > 0) {
-                        authorsElement.appendChild(document.createTextNode(', and '));
-                        const moreAuthorsLink = document.createElement('a');
-                        moreAuthorsLink.href = '#';
-                        moreAuthorsLink.className = 'more-authors';
-                        moreAuthorsLink.textContent = `${pub.more_authors_count} more authors`;
-                        authorsElement.appendChild(moreAuthorsLink);
+                    // Create title element
+                    const titleElement = document.createElement('div');
+                    titleElement.className = 'publication-title';
+                    titleElement.textContent = pub.title;
+                    
+                    // Create authors element
+                    const authorsElement = document.createElement('div');
+                    authorsElement.className = 'authors';
+                    
+                    // Add ALL authors with links
+                    pub.authors.forEach((author, index) => {
+                        const authorLink = document.createElement('a');
+                        authorLink.href = author.url || '#';
+                        authorLink.className = 'author-link';
+                        
+                        // Highlight your name (Jiameng Lai)
+                        if (author.name.includes('Jiameng Lai')) {
+                            authorLink.classList.add('author-self');
+                        }
+                        
+                        authorLink.textContent = author.name;
+                        authorsElement.appendChild(authorLink);
+                        
+                        // Add separator between authors
+                        if (index < pub.authors.length - 1) {
+                            authorsElement.appendChild(document.createTextNode(', '));
+                        }
+                    });
+                    
+                    // Create journal element if journal exists
+                    if (pub.journal) {
+                        const journalElement = document.createElement('div');
+                        journalElement.className = 'journal';
+                        journalElement.textContent = pub.journal;
+                        authorsElement.appendChild(document.createElement('br'));
+                        authorsElement.appendChild(journalElement);
                     }
-                }
+                    
+                    // Create links element
+                    const linksElement = document.createElement('div');
+                    linksElement.className = 'links';
+                    
+                    // Add HTML link
+                    if (pub.links && pub.links.html) {
+                        const htmlLink = document.createElement('a');
+                        htmlLink.href = pub.links.html;
+                        htmlLink.textContent = 'HTML';
+                        htmlLink.target = '_blank';
+                        linksElement.appendChild(htmlLink);
+                    }
+                    
+                    // Append all elements to the publication div
+                    pubDiv.appendChild(titleElement);
+                    pubDiv.appendChild(authorsElement);
+                    pubDiv.appendChild(linksElement);
+                    
+                    // Add the complete publication to the year group
+                    yearGroup.appendChild(pubDiv);
+                });
                 
-                // Create journal element if journal exists
-                if (pub.journal) {
-                    const journalElement = document.createElement('div');
-                    journalElement.className = 'journal';
-                    journalElement.textContent = pub.journal;
-                    authorsElement.appendChild(document.createElement('br'));
-                    authorsElement.appendChild(journalElement);
-                }
-                
-                // Create year element
-                const yearElement = document.createElement('div');
-                yearElement.className = 'year';
-                yearElement.textContent = pub.year;
-                
-                // Create links element
-                const linksElement = document.createElement('div');
-                linksElement.className = 'links';
-                
-                // Add HTML link
-                if (pub.links && pub.links.html) {
-                    const htmlLink = document.createElement('a');
-                    htmlLink.href = pub.links.html;
-                    htmlLink.textContent = 'HTML';
-                    htmlLink.target = '_blank';
-                    linksElement.appendChild(htmlLink);
-                }
-                                
-                // Add year in large format (positioned absolutely in CSS)
-                const yearLarge = document.createElement('div');
-                yearLarge.className = 'publication-year';
-                yearLarge.textContent = pub.year;
-                
-                // Append all elements to the publication div
-                pubDiv.appendChild(yearLarge);
-                pubDiv.appendChild(titleElement);
-                pubDiv.appendChild(authorsElement);
-                pubDiv.appendChild(yearElement);
-                pubDiv.appendChild(linksElement);
-                
-                // Add the complete publication to the container
-                container.appendChild(pubDiv);
+                // Add the year group to the container
+                container.appendChild(yearGroup);
             });
         }
         
