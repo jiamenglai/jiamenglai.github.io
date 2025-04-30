@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head>
+<header class="navbar">
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="./main.css">
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type">
@@ -9,22 +9,78 @@
     	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
     	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     	<link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-		<title>Jiameng Lai - Education</title>
-	</head>
+		<title>Jiameng Lai - Education</title>		
+  <div class="container">
+    <div class="navbar-content">
+      <a href="index.html" class="navbar-logo">Jiameng Lai</a>
+      
+      <button class="navbar-toggle" aria-label="Toggle navigation">
+        <span class="toggle-icon"></span>
+      </button>
+      
+      <ul class="navbar-menu">
+        <li class="navbar-item">
+          <a href="index.html" class="navbar-link active">Home</a>
+        </li>
+        <li class="navbar-item">
+          <a href="education.html" class="navbar-link">Education</a>
+        </li>
+        <li class="navbar-item">
+          <a href="research.html" class="navbar-link">Research</a>
+        </li>
+        <li class="navbar-item">
+          <a href="publication.html" class="navbar-link">Publications</a>
+        </li>
+        <li class="navbar-item">
+          <a href="awards.html" class="navbar-link">Awards</a>
+        </li>
+        <li class="navbar-item">
+          <a href="cv.html" class="navbar-link">CV</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<!-- JavaScript for the navigation functionality -->
+<script>
+  // Get elements
+  const navbarToggle = document.querySelector('.navbar-toggle');
+  const navbarMenu = document.querySelector('.navbar-menu');
+  const navbar = document.querySelector('.navbar');
+  
+  // Toggle mobile menu
+  navbarToggle.addEventListener('click', () => {
+    navbarToggle.classList.toggle('active');
+    navbarMenu.classList.toggle('active');
+  });
+  
+  // Shrink navbar on scroll
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 50) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });
+  
+  // Set active link based on current page
+  document.addEventListener('DOMContentLoaded', () => {
+    const currentPath = window.location.pathname;
+    const navLinks = document.querySelectorAll('.navbar-link');
+    
+    navLinks.forEach(link => {
+      if (link.getAttribute('href') === currentPath.split('/').pop()) {
+        link.classList.add('active');
+      } else if (currentPath.endsWith('/') && link.getAttribute('href') === 'index.html') {
+        link.classList.add('active');
+      }
+    });
+  });
+</script>
+	
 	<style type = "text/css">a {text-decoration: none}</style>
 	<body>
-		<h3 style = "text-align:center">
-			<p style = "font-size:95%">
-				<b>
-					<a href = "./index.html"><font color="grey">Home</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
-					<a href = "./education.html"><font color="grey">Education</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
-					<a href = "./research.html"><font color="grey">Research</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
-					<a href = "./publication.html"><font color="grey">Publication</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp
-					<a href = "./awards.html"><font color="grey">Awards</font></a>&nbsp &nbsp &nbsp &nbsp &nbsp
-					<a href = "./Files/CV_Jiameng_Lai_202407.pdf"><font color="grey">CV</font></a>
-				</b>
-			</p>
-		<h3>
 		<section class = "main-content">
 			<h3 style="text-align:left">09/2020 – 05/2025 (expected)</font>&nbsp &nbsp &nbsp &nbsp Cornell University | USA</h3>
 		                <table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
