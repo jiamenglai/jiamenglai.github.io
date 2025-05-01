@@ -41,18 +41,22 @@
             margin-top: 20px;
         }
         .year-label {
-            position: absolute;
+            position: sticky;
             top: 10px;
             left: 0;
-            font-size: 1.5em;
+            font-size: 1.6em;
             color: #d0d0d0 ;
+	        background-color: #fff;
             font-weight: bold;
-            z-index: -1;
+		padding: 10px 0;
+		margin-bottom:15px;
+                z-index: 10;
         }
         .publication {
             margin-bottom: 30px;
             padding-bottom: 10px;
             position: relative;
+		margin-left:20px;
         }
         .publication-title {
             font-size: 1em;
@@ -108,6 +112,47 @@
             margin: 20px 0;
             display: none;
         }
+
+	    /* Improved year labels */
+        .year-label:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 1px;
+            background-color: #f0f0f0;
+        }
+        
+        /* Container for publications */
+        .publications-content {
+            margin-left: 15px;
+        }
+        
+        /* Top navigation */
+        .top-nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .top-nav a {
+            text-decoration: none;
+            color: grey;
+            margin: 0 10px;
+        }
+        .top-nav a:hover {
+            text-decoration: underline;
+        }
+        
+        /* In-progress publications section */
+        .in-progress {
+            margin-bottom: 40px;
+        }
+        .in-progress h2 {
+            margin-bottom: 15px;
+        }
+        .in-progress p {
+            margin-bottom: 15px;
+        }
     </style>
 	</head>
 
@@ -131,7 +176,8 @@
  				Jiameng's <a href = "https://scholar.google.com/citations?user=F5Z74toAAAAJ&hl=zh-CN&oi=ao">google scholar profile</a> <img src = "./Files/google.png" alt = "google.png"  width = "20" valign = "middle">
  							
  				(33 published, total citations=1475, h-index=24 , last access 04/18/2025)
- 			<h2 style = "text-align: left">Paper under preparation</h2>
+ 			<div class="in-progress">
+				<h2 style = "text-align: left">Paper under preparation</h2>
  				<p style="text-align:left;font-size:90%">   
 					Water use efficiency gains from CO2 fertilization diminished but not overshadowed by vapor pressure deficit increase.<br>
 					<b> <u> Jiameng Lai</u> </b>, et al., and Ying Sun<br>
@@ -147,6 +193,7 @@
 				          <b> <u> Jiameng Lai</u> </b>, Zhenqi Luo, et al., and Ying Sun <br>
 				<i>In development</i> <br>
  				</p>
+				</div>
  			
  			<h2 style="text-align:left">Published articles</h2>	
  			<div id="error-message" class="error-message"></div>
@@ -218,7 +265,11 @@
                 yearLabel.className = 'year-label';
                 yearLabel.textContent = year;
                 yearGroup.appendChild(yearLabel);
-                
+
+		    // Create container for publications
+                        const pubsContainer = document.createElement('div');
+                        pubsContainer.className = 'publications-content';
+		    
                 // Add publications for this year
                 publicationsByYear[year].forEach(pub => {
                     const pubDiv = document.createElement('div');
